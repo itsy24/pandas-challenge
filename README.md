@@ -1,6 +1,8 @@
 # pandas-challenge
 Project : School Data
+
 Program : Python - Pandas, Jupyter Notebook
+
 Overview: District schools, which have more students and a higher budget underperformed compared to charter schools, which had less students and a smaller budget. This suggests that a smaller student:teacher ratio is more beneificial for student learning outcome; however, as mentioned above the data below showcases only two subjects and a handful of schools -- more data needs to be gathered to form a more definitive conclusion.
 
 Jupyter notebook and python with pandas imported was used to analyze the school and student records stored in a comma-separated values (.csv) files for different quantitative indexes. A summary table is displayed within the notebook as well as the same analysis written below: 
